@@ -1,1 +1,1 @@
-2026-11-17T06:48:05  OK  hilos=9  /home/fjjaime/holocubierta-reddit/reddit_2026-11-17.md
+2026-11-18T06:46:04  FALLO: r/fortinet: HTTP Error 404: Not Found; r/networking: HTTP Error 404: Not Found  hilos=0  /home/fjjaime/holocubierta-reddit/reddit_2026-11-18.md
